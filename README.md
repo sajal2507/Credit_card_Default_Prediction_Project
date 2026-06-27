@@ -1,12 +1,16 @@
-# Credit_card_Default_Prediction_Project
-Credit Card Default Prediction
+# Credit Card Default Prediction
+
 Machine Learning internship project.
-Files
-Credit_Card_Default_Prediction.ipynb : Complete Jupyter Notebook
-credit_default_data.csv : Dataset
-Technologies
+
+## Files
+- Credit_Card_Default_Prediction.ipynb : Complete Jupyter Notebook
+- credit_default_data.csv : Dataset
+
+## Technologies
 Python, Pandas, Scikit-learn, Matplotlib
-Model
+
+## Model
 Logistic Regression
-Goal
+
+## Goal
 Predict whether a customer may default on credit payments based on financial information.
